@@ -124,4 +124,4 @@ Estos datos pueden analizarse mediante consultas SQL ejecutadas con DuckDB.
 
 ## Objetivo académico
 
-Demostrar el funcionamiento de DuckDB como herramienta de análisis SQL de datos locales, comprendiendo cómo se pueden consultar, filtrar y agrupar archivos CSV mediante una aplicación web sencilla.
+Demostrar el funcionamiento de DuckDB como herramienta de análisis SQL de datos locales, comprendiendo cómo se pueden consultar, filtrar y agrupar archivos CSV mediante una aplicación web sencilla
